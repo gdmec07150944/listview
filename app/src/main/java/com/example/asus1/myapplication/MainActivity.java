@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
                 baseAdapter();
                 break;
         }
+
         return super.onOptionsItemSelected(item);
     }
     private void arrayAdapter() {
